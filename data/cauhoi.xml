@@ -449,5 +449,505 @@
         <d>Chứa hình đại diện cho thông tin cần tìm</d>
         <reply>2</reply>
     </questionParse>
-
+<questionParse>
+        <question>Trong tế bào, phân tử nào sau đây mang bộ ba đối mã đặc hiệu (anticôđon)?</question><a>MARN</a><b>rARN</b><c>tARN</c><d>ADN</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Trong công nghệ tế bào thực vật, tế bào trần là tế bào bị loại bỏ thành phần nào sau đây?</question><a>Nhân tế bào</a><b>Lưới nội chất</b><c>Màng sinh chất</c><d>Thành tế bào</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Một loài thực vật, phép lại P: aaBB x aabb, tạo ra F1. Theo lí thuyết, F1 có tối đa bao nhiêu loại kiểu hình?</question><a>2</a><b>4</b><c>3</c><d>1</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Các con trâu rừng đi kiếm ăn theo đàn giúp nhau cùng chống lại thú ăn thịt tốt hơn các con trâu rừng đi kiếm ăn riêng lẻ. Đây là ví dụ về mối quan hệ</question><a>cộng sinh</a><b>cạnh tranh cùng loài</b><c>hội sinh</c><d>hỗ trợ cùng loài</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Giả sử một quần thể có cấu trúc di truyền là 100% Ee. Theo lí thuyết, tần số alen E của quần thể này là</question><a>0,2</a><b>0,5</b><c>0,1</c><d>1,0</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Trong quá trình tiến hóa, giọt coaxecva được hình thành trong giai đoạn nào sau đây?</question><a>Tiến hóa nhỏ</a><b>Tiến hóa hóa học</b><c>Tiến hóa tiền sinh học</c><d>Tiến hóa sinh học</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Trong hệ sinh thái, nhóm sinh vật nào sau đây là sinh vật tự dưỡng?</question><a>Động vật ăn thực vật</a><b>Động vật kí sinh</b><c>Động vật ăn động vật</c><d>Thực vật</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trong quá trình dịch mã, phân tử mARN có chức năng</question><a>vận chuyển axit amin tới ribôxôm</a><b>kết hợp với prôtêin tạo nên ribôxôm</b><c>làm khuôn cho quá trình dịch mã</c><d>kết hợp với tARN tạo nên ribôxôm</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Xét về phương diện lí thuyết, nguyên nhân nào sau đây làm cho sự tăng trưởng của quần thể sinh vật bị giới hạn?</question><a>Điều kiện khí hậu thuận lợi</a><b>Không gian cư trú của quần thể không giới hạn</b><c>Nguồn thức ăn trong môi trường dồi dào</c><d>Số lượng kẻ thù tăng lên</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trong tạo giống cây trồng, hóa chất cônsixin được sử dụng vào mục đích nào sau đây?</question><a>Gây đột biến đa bội</a><b>Lại tế bào sinh dưỡng</b><c>Gây đột biến gen</c><d>Tạo ADN tái tổ hợp</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ở đại mạch, gen quy định màu xanh của lá di truyền theo dòng mẹ. Gen quy định tính trạng này nằm ở bào quan nào sau đây?</question><a>Ribôxôm</a><b>Lục lạp</b><c>Perôxixôm</c><d>Không bào</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Trên đồng cỏ châu Phi, cá sấu bắt linh dương đầu bò để ăn. Mối quan hệ giữa cá sấu và linh dương đầu bò thuộc quan hệ</question><a>cạnh tranh</a><b>sinh vật này ăn sinh vật khác</b><c>hợp tác</c><d>ức chế – cảm nhiễm</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Sinh vật nào sau đây có quá trình trao đổi khí giữa cơ thể với môi trường ngoài diễn ra ở mang?</question><a>Voi</a><b>Chim bồ câu</b><c>Nai</c><d>Cá trắm cỏ</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Nhân tố sinh thái nào sau đây là nhân tố hữu sinh?</question><a>Độ ẩm không khí</a><b>Khí O2</b><c>Ánh sáng</c><d>Sâu ăn lá lúa</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Theo lí thuyết, phép lại nào sau đây tạo ra đời con có tỉ lệ kiểu gen là 1: 2:1?</question><a>Aa x Aa</a><b>AA x aa</b><c>AA x Aa</c><d>Aa x aa</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Theo thuyết tiến hóa hiện đại, nhân tố nào sau đây có thể làm xuất hiện các alen mới trong quần thể?</question><a>Các cơ chế cách li</a><b>Chọn lọc tự nhiên</b><c>Giao phối không ngẫu nhiên</c><d>Đột biến</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Khi nói về quá trình nhân đôi ADN trong tế bào, phát biểu nào sau đây đúng?</question><a>Enzim ADN polimeraza tổng hợp và kéo dài mạch mới theo chiều 3' -> 5'</a><b>Trong một chạc tái bản, chỉ một trong hai mạch đơn mới được tổng hợp liên tục</b><c>Quá trình nhân đôi ADN chỉ diễn ra theo nguyên tắc bổ sung</c><d>Enzim ADN polimeraza tham gia tháo xoắn</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Theo lí thuyết, khi nói về sự di truyền của các gen ở thú, phát biểu nào sau đây sai?</question><a>Các cặp gen trên các cặp NST khác nhau phân li độc lập trong quá trình giảm phân</a><b>Các alen lặn ở vùng không tương đồng trên NST giới tính X thường biểu hiện kiểu hình ở giới đực nhiều hơn ở giới cái</b><c>Các gen trên cùng 1 NST tạo thành 1 nhóm gen liên kết và có xu hướng di truyền cùng nhau</c><d>Các gen ở tế bào chết chỉ biểu hiện kiểu hình ở giới cái mà không biểu hiện kiểu hình ở giới đực</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Cà chua lưỡng bội có 12 nhóm gen liên kết. Theo lí thuyết, thể một thuộc loài này có số lượng NST trong tế bào sinh dưỡng là</question><a>11</a><b>23</b><c>12</c><d>24</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Phép lại P: Cây cải củ (2n = 18 RR) x Cây cải bắp (2n = 18 BB), tạo ra cây lai F1. Theo lí thuyết, phát biểu nào sau đây đúng?</question><a>Trong tế bào sinh dưỡng của cây F1, các NST tồn tại thành từng cặp tương đồng</a><b>Phép lai này tạo ra thể tự đa bội lẻ</b><c>Cây lai F1 bất thụ vì mang 2 bộ NST đơn bội của 2 loài khác nhau</c><d>Tế bào sinh dưỡng của cây F1 có số lượng NST là 36 RR</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Chức năng chủ yếu của hệ tuần hoàn là gì?</question><a>Tạo ra huyết áp để đẩy máu đi đến các bào quan, tế bào để nuôi dưỡng chúng</a><b>Vận chuyển các chất từ bộ phận này đến bộ phận khác để đáp ứng cho các hoạt động sống của cơ thể</b><c>Đảm bảo cho tim tự hoạt động có tính chu kì</c><d>Đảm bảo sự sinh tổn cho các động vật</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Khả năng co giãn tự động theo chu kì của tim là:</question><a>Do hệ dẫn truyền tim</a><b>Do tim</b><c>Do mạch máu</c><d>Do huyết áp</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ở thỏ thức ăn được biến đổi sinh học diễn ra chủ yếu ở:</question><a>Dạ dày</a><b>Ruột non</b><c>Manh tràng</c><d>Ruột già</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Nhóm động vật không có sự pha trộn giữ máu giàu ôxi và máu giàu cacbôníc ở tim?</question><a>Cá xương, chim, thú</a><b>Lưỡng cư, thú</b><c>Cá sấu, chim, thú</c><d>Lưỡng cư, bò sát, chim</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Ở động vật có ống tiêu hóa, thức ăn được tiêu hóa như thế nào?</question><a>Tiêu hóa ngoại bào</a><b>Tiêu hóa nội bào</b><c>Tiêu hóa ngoại bào tiêu hóa nội bào</c><d>Một số tiêu hóa nội bào, còn lại tiêu hóa ngoại bào</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Sự thông khí ở phổi của loài lưỡng cư nhờ:</question><a>Sự vận động của toàn bộ hệ cơ</a><b>Sự vận động của các chi</b><c>Các cơ quan hô hấp làm thay đổi thể tích lồng ngực hoặc khoang bụng</c><d>Sự nâng lên và hạ xuống của thềm miệng</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ở sâu bọ, hệ tuần hoàn hở chỉ thực hiện chức năng nào?</question><a>Vận chuyển dinh dưỡng</a><b>Vận chuyển các sản phẩm bài tiết</b><c>Tham gia quá trình vận chuyển khí trong hô hấp</c><d>Vận chuyển dinh dưỡng và sản phẩm bài tiết</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Hệ tuần hoàn hở có ở động vật nào?</question><a>Đa số động vật thân mềm và chân khớp</a><b>Các loài cá sụn và cá xương</b><c>Động vật đa bào cơ thể nhỏ và dẹp</c><d>Động vật đơn bào</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Cơ quan hô hấp của nhóm động vật nào trao đổi khí hiệu quả nhất?</question><a>Da của giun đất</a><b>Phổi và của ếch nhái</b><c>Phổi của bó sát</c><d>Phổi của chim</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Côn trùng hô hấp</question><a>qua bề mặt cơ thể</a><b>bằng hệ thống ống khí</b><c>bằng phổi</c><d>bằng mang</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Động vật nào sau đây có hệ tiêu hóa dạng túi?</question><a>Thủy tức</a><b>Giun đất</b><c>Cào cào</c><d>Chuột túi</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Bộ phận nào sau đây không thuộc ống tiêu hoá ở người?</question><a>Dạ dày</a><b>Thực quản</b><c>Ruột non</c><d>Gan</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ở động vật chưa có cơ quan tiêu hoá, thức ăn được tiêu hoá như thế nào?</question><a>Tiêu hoá nội bào</a><b>Tiêu hóa ngoại bào</b><c>Một số tiêu hoá nội bào, còn lại tiêu hoá ngoại bào</c><d>Tiêu hóa ngoại bào tiêu hoá nội bào</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Vì sao mang cá có diện tích trao đổi khí lớn?</question><a>Vì có nhiều cung mang</a><b>Vì mang có nhiều cung mang và mỗi cung mang gồm nhiều phiến mang</b><c>Vì mang có kích thước lớn</c><d>Vì mang có khả năng mở rộng</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Hệ tuần hoàn kép chỉ có ở động vật?</question><a>Cá, lưỡng cư và bò sát</a><b>Lưỡng cư, bò sát, chim và thú</b><c>Mực ống, bạch tuột, giun đốt và chân đầu</c><d>Mực ống, bạch tuột, giun đốt và chân đầu và cá</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Ý nào không phải là đặc tính của huyết áp?</question><a>Huyết áp cực đại ứng với lúc tim co, huyết áp cực tiểu ứng với lúc tim dãn</a><b>Tim đập nhanh và mạnh làm tăng huyết áp; tim đập chậm, yếu làm huyết áp hạ</b><c>Càng xa tim, huyết áp càng giảm</c><d>Sự tăng dần huyết áp là do sự ma sát của máu với thành mạch và giữa các phân tử máu với nhau khi vận chuyển</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trong hệ mạch huyết áp giảm dần từ?</question><a>Động mạch → tiểu động mạch → mao mạch → tiểu tĩnh mạch → tĩnh mạch</a><b>Tĩnh mạch → tiểu tĩnh mạch → mao mạch → tiểu động mạch → động mạch</b><c>Động mạch → tiểu tĩnh mạch → mao mạch → tiểu động mạch → tĩnh mạch</c><d>Mao mạch → tiểu động mạch → động mạch → tĩnh mạch → tiểu tĩnh mạch</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Các nếp gấp của niêm mạc ruột, trên đó có các lông ruột và các lông cực nhỏ có tác dụng gì?</question><a>Làm tăng nhu động ruột</a><b>Làm tăng bề mặt hấp thụ</b><c>Tạo điều kiện thuận lợi cho tiêu hoá hoá học</c><d>Tạo điều kiện cho tiêu hoá cơ học</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Vì sao phổi của thú có hiệu quả trao đổi khí ưu thế hơn ở phổi của bò sát lưỡng cư?</question><a>Vì phổi thú có cấu trúc phức tạp hơn</a><b>Vì phổi thú có kích thươc lớn hơn</b><c>Vì phổi thú có khối lượng lớn hơn</c><d>Vì phổi thú có nhiều phế nang, diện tích bề mặt trao đổi khí lớn</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Điều nào sau đây không giúp cho trao đổi khí của cá xương đạt hiệu quả cao?</question><a>Mang cá gồm nhiều cung mang</a><b>Mỗi cung mang gồm nhiều phiến mang</b><c>Dòng nước chảy 1 chiều gần như liên tục qua mang</c><d>Cá có miệng rộng, có thể ngoi lên ngụp xuống để lấy không khí</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ý nào dưới đây không đúng với đặc điểm của giun đất thích ứng với sự trao đổi khí?</question><a>Tỉ lệ giữa thể tích cơ thể và diện tích bề mặt cơ thể khá lớn</a><b>Da luôn ẩm giúp các khí dễ dàng khuếch tán qua</b><c>Dưới da có nhiều mao mạch và có sắc tố hô hấp</c><d>Tỉ lệ giữa diện tích bề mặt cơ thể và thể tích cơ thể (S/V)khá lớn</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Diễn biến của hệ tuần hoàn nhỏ diễn ra theo thứ tự nào?</question><a>Tim → Động mạch giàu O2 → Mao mạch → Tĩnh mạch giàu CO2→ Tim</a><b>Tim → Động mạch giàu CO2 → Mao mạch → Tĩnh mạch giàu O2 → Tim</b><c>Tim → Động mạch ít O2 → Mao mạch →Tĩnh mạch giàu CO2 → Tim</c><d>Tim → Động mạch giàu O2 → Mao mạch → Tĩnh mạch có ít CO2 → Tim</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Ở người, thời gian mỗi chu kì hoạt động của tim trung bình là: Tim → Động mạch giàu CO2 → Mao mạch → Tĩnh mạch giàu O2 → Tim</question><a>0,1 giây, trong đó tâm nhĩ co 0,2 giây, tâm thất co 0,3 giây, thời gian dãn chung là 0,5 giây</a><b>0,8 giây, trong đó tâm nhĩ co 0,1 giây, tâm thất co 0,3 giây, thời gian dãn chung là 0,4 giây</b><c>0,12 giây, trong đó tâm nhĩ co 0,2 giây, tâm thất co 0,4 giây, thời gian dãn chung là 0,6 giây</c><d>0,6 giây, trong đó tâm nhĩ co 0,1 giây, tâm thất co 0,2 giây, thời gian dãn chung là 0,6 giây</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Ở người, khi thở ra không khí qua các phần của đường hô hấp theo trật tự nào sau đây?</question><a>Các phế nang, khí quản, phế quản, hầu, mũi</a><b>Các phế nang, phế quản, khí quản, hầu, mũi</b><c>Các phế nang, phế quản, khí quản, mũi, hầu</c><d>Phế quản, các phế nang, khí quản, hầu, mũi</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Phát biểu nào sau đây sai khi nói về đặc điểm tiêu hóa ở thú ăn thịt?</question><a>Ống tiêu hóa có một số đặc điểm cấu tạo và chức năng thích nghi với thức ăn là thịt mềm và giàu chất dinh dưỡng</a><b>Thú ăn thịt hầu như không nhai thức ăn mà dùng răng để cắt, xé nhỏ thức ăn rồi nuốt</b><c>Thức ăn là thịt được tiêu hóa cơ học và tiêu hóa hóa học trong dạ dày giống như ở người</c><d>Dạ dày của thú ăn thịt có 4 ngăn</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Sự biến đổi thức ăn trong túi tiêu hóa không có đặc điểm:</question><a>Thức ăn bị trộn lẫn với chất thải</a><b>Dịch tiêu hóa tiết ra bị hòa loãng với nước</b><c>Thức ăn được biến đổi hoàn toàn thành chất đơn giản trong túi tiêu hóa</c><d>Lấy thức ăn và thải chất cặn bã qua lỗ miệng</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Vì sao hệ tuần hoàn của thân mềm và chân khớp được gọi là hệ tuần hoàn hở?</question><a>Vì giữa mạch đi từ tim (động mạch) và các mạch đến tim (tĩnh mạch) không có mạch nối</a><b>Vì tốc độ máu chảy chậm</b><c>Vì máu chảy trong động mạch dưới áp lực lớn</c><d>Vì còn tạo hỗn hợp dịch mô – máu</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ở người, loại tế bào nào có khả năng tiêu hóa nội bào ?</question><a>Tế bào hồng cầu</a><b>Tế bào bạch cầu</b><c>Tế bào thần kinh</c><d>Tế bào gan</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Khi bạn hít vào, cơ hoành của bạn như thế nào?</question><a>giãn và nâng lên</a><b>giãn và hạ xuống</b><c>co và nâng lên</c><d>co và hạ xuống</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Khi tim bị cắt khỏi cơ thể vẫn có khả năng?</question><a>Co dãn nhịp nhàng nếu được cung cấp đầy đủ dinh dưỡng, oxy và nhiệt độ thích hợp</a><b>Co bóp nhip nhàng với chu kỳ 0,8s và 75 chu kỳ trong 1 phút như tim binh thường</b><c>Co bóp đẩy máu vào động mạch chủ và động mạch phổi</c><d>Co dãn tự động theo chu kỳ nhờ hệ dẫn truyền tự động của tim</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ống tiêu hóa cuả 1 số động vật như giun đất, châu chấu, chim có bộ phận mà ống tiêu hóa của người không có là:</question><a>Diều và mề</a><b>Diều và dạ dày cơ</b><c>Diều và thực quản</c><d>Thực quản và dạ dày cơ</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Ý nào dưới đây không đúng với hiệu quả trao đổi khí ở động vật?</question><a>Có sự lưu thông khí tạo ra sự cân bằng về nồng độ khí O2 và CO2 để các khí đó khuếch tán qua bề mặt trao đổi khí</a><b>Có sự lưu thông khí tạo ra sự chênh lệch về nồng độ khí O2 và CO2 để các khí đó khuếch tán qua bề mặt trao đổi khí</b><c>Bề mặt trao đổi khí mỏng và ẩm ướt giúp O2 và CO2 dễ dàng khuếch tán qua</c><d>Bề mặt trao đổi khí rộng và có nhiều mao mạch và máu có sắc tố hô hấp</d><reply>1</reply></questionParse><questionParse>
+        <question>Nội dung nào dưới đây không phải mục đích của ta khi mở chiến dịch Biên giới thu - đông năm 1950?</question><a>Kết thúc cuộc kháng chiến chống Pháp</a><b>Tiêu diệt một bộ phận sinh lực địch</b><c>Khai thông biên giới Việt - Trung</c><d>Củng cố, mở rộng căn cứ địa Việt Bắc</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Một trong những nguyên nhân chung dẫn tới sự phát triển kinh tế của Mĩ, Tây Âu và Nhật Bản sau Chiến tranh thế giới thứ hai là</question><a>do tài nguyên thiên nhiên phong phú, nhân công dồi dào</a><b>nhờ quân sự hóa cao độ nền kinh tế để buôn bán vũ khí thu lợi nhuận</b><c>do trình độ tập trung tư bản cao và chi phí cho quốc phòng thấp</c><d>nhờ áp dụng các thành tựu của cách mạng khoa học - kĩ thuật vào sản xuất</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Chiến thắng nào dưới đây của quân và dân ta đã mở ra bước phát triển mới của cuộc kháng chiến toàn quốc chống thực dân Pháp?</question><a>Cuộc chiến đấu tại các đô thị 1946</a><b>Chiến dịch Việt Bắc thu - đông 1947</b><c>Chiến dịch Biên giới thu - đông 1950</c><d>Chiến thắng Điện Biên Phủ 1954</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Nước nào sau đây không tham dự Hội nghị cấp cao ở Ianta (2-1945)?</question><a>Mĩ</a><b>Anh</b><c>Pháp</c><d>Liên Xô</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Lí do nào dưới đây đúng nhất để khẳng định sau Cách mạng tháng Tám năm 1945, đất nước ta đứng trước tình thế “ngàn cân treo sợi tóc”?</question><a>Chính quyền cách mạng mới thành lập, lực lượng vũ trang còn suy yếu</a><b>Cùng lúc phải đương đầu với giặc ngoại xâm, giặc đói và giặc dốt</b><c>Thiên tai hạn hán kéo dài, nạn đói đang đe dọa trầm trọng</c><d>Lực lượng ngoại xâm đông và mạnh, ngân sách trống rỗng</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>So với cuộc khai thác thuộc địa lần thứ nhất, cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương có điểm khác là</question><a>chú trọng đầu tư phát triển nông nghiệp</a><b>hạn chế phát triển công nghiệp nặng</b><c>đầu tư vốn với tốc độ nhanh và quy mô lớn</c><d>đầu tư phát triển hệ thống giao thông vận tải</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Ở Việt Nam, giai cấp nào có tinh thần cách mạng triệt để, có ý thức kỷ luật cao, gắn với nền sản xuất hiện đại, có quan hệ gắn bó với nông dân?</question><a>Tư sản</a><b>Công nhân</b><c>Tiểu tư sản</c><d>Địa chủ</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Cơ quan ngôn luận của Đông Dương Cộng sản đảng là báo</question><a>Nhân dân</a><b>Búa liềm</b><c>Thanh niên</c><d>Người nhà quê</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Tổ chức ASEAN thành lập ngày 8 - 8 - 1967 tại</question><a>Thái Lan</a><b>Xin-ga-po</b><c>Ma-lai-xi-a</c><d>In-đô-nê-xi-a</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Kế hoạch 5 năm khôi phục kinh tế (1946 - 1950) ở Liên Xô đã</question><a>có sự giúp đỡ của nhiều nước</a><b>hoàn thành trước thời hạn</b><c>hoàn thành đúng thời hạn</c><d>không hoàn thành đúng tiến độ. COM</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Tư tưởng cốt lõi trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam là</question><a>tự do và dân chủ</a><b>đoàn kết với cách mạng thế giới</b><c>độc lập và tự do</c><d>ruộng đất cho dân cày</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Thành viên thứ 7 của tổ chức ASEAN là</question><a>Lào</a><b>Campuchia</b><c>Bru-nây</c><d>Việt Nam</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ở khu vực Đông Nam Á, quốc gia nào được coi là một trong bốn con rồng kinh tế châu Á?</question><a>Thái Lan</a><b>Malaixia</b><c>Xingapo</c><d>Inđônêxia</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Những giai cấp mới ra đời ở Việt Nam sau Chiến tranh thế giới thứ nhất là</question><a>tư sản và tiểu tư sản</a><b>địa chủ và tiểu tư sản</b><c>công nhân và tư sản</c><d>công nhân và tiểu tư sản</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ý nào sau đây phản ánh đúng nội dung của Hiệp định Sơ bộ (6 - 3 - 1946)?</question><a>Chính phủ Pháp công nhận Việt Nam là một quốc gia tự do</a><b>Chính phủ Pháp công nhận Việt Nam là một quốc gia dân chủ</b><c>Chính phủ Pháp công nhận Việt Nam là một xứ tự trị</c><d>Chính phủ Pháp công nhận Việt Nam là một quốc gia độc lập</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Đến đầu những năm 70 của thế kỉ XX, nước nào có nền công nghiệp đứng thứ hai trong thế giới tư bản?</question><a>Đức</a><b>Anh</b><c>Nhật Bản</c><d>Pháp</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Các quốc gia tham gia sáng lập tổ chức ASEAN ngày 8 - 8 - 1967 là</question><a>Inđônêxia, Malaixia, Xingapo, Thái Lan, Brunây</a><b>Inđônêxia, Malaixia, Xingapo, Thái Lan, Campuchia</b><c>Inđônêxia, Malaixia, Xingapo, Thái Lan, Mianma</c><d>Inđônêxia, Malaixia, Xingapo, Thái Lan, Philippin</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Sự kiện nào dưới đây đánh dấu bước ngoặt vĩ đại trong lịch sử cách mạng Việt Nam?</question><a>Đảng Cộng sản Việt Nam ra đời</a><b>Chính quyền Xô viết Nghệ - Tĩnh được thành lập</b><c>Cuộc kháng chiến chống thực dân Pháp kết thúc</c><d>Cách mạng tháng Tám thành công</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Những quốc gia nào ở khu vực Đông Nam Á tuyên bố độc lập vào năm 1945?</question><a>Inđônêxia, Philippin, Lào</a><b>Inđônêxia, Mianma, Việt Nam</b><c>Malaixia, Việt Nam, Lào</c><d>Inđônêxia, Việt Nam, Lào</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Thực dân Pháp mở cuộc tấn công Việt Bắc vào thu - đông năm 1947 nhằm</question><a>kết thúc chiến tranh trong danh dự</a><b>giải quyết mâu thuẫn giữa tập trung và phân tán lực lượng</b><c>tiêu diệt cơ quan đầu não kháng chiến và bộ đội chủ lực của ta</c><d>ngăn chặn con đường liên lạc của ta với quốc tế</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Điểm giống nhau về chính sách đối ngoại của Nga và Mĩ sau Chiến tranh lạnh là</question><a>người bạn lớn của EU, Trung Quốc và ASEAN</a><b>trở thành trụ cột trong “Trật tự thế giới hai cực”</b><c>ra sức điều chỉnh chính sách đối ngoại để mở rộng ảnh hưởng</c><d>trở thành đồng minh trong Hội đồng Bảo an Liên hợp quốc</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Hội nghị lần thứ nhất Ban Chấp hành Trung ương lâm thời Đảng Cộng sản Việt Nam (10 – 1930) quyết định đổi tên Đảng Cộng sản Việt Nam thành</question><a>Đảng Cộng sản Đông Dương</a><b>Đảng Lao động Việt Nam</b><c>Đông Dương Cộng sản đảng</c><d>Đảng Dân chủ Việt Nam</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Chiến thắng nào dưới đây của quân và dân ta đã làm phá sản hoàn toàn âm mưu “đánh nhanh thắng nhanh” của Pháp?</question><a>Cuộc chiến đấu tại các đô thị 1946</a><b>Chiến dịch Việt Bắc thu - đông 1947</b><c>Chiến dịch Biên giới thu - đông 1950</c><d>Chiến dịch Điện Biên Phủ 1954</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Việc giải giáp vũ khí của phát xít Nhật ở Đông Dương sau khi Chiến tranh thế giới thứ hai kết thúc được giao cho quân đội</question><a>Anh và Pháp</a><b>Anh và Trung Hoa Dân quốc</b><c>Mĩ và Pháp</c><d>Pháp và Trung Hoa Dân quốc</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Sự hạn chế của các nguồn tài nguyên thể hiện rõ nhất ở tài nguyên?</question><a>Khí hậu</a><b>Đất</b><c>Khoáng sản</c><d>Nước</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Thử thách lớn nhất của loài người trong quá trình phát triển hiện nay là</question><a>Xung đột chính trị xảy ra khắp nơi</a><b>Nhiều tài nguyên đang bị cạn kiệt, trong khi sản xuất xã hội không ngừng được mở rộng</b><c>Bệnh dịch, nạn thiếu lương thực ngày càng tăng</c><d>Ô nhiễm môi trường nước và không khí ngày càng tăng</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Mục tiêu của phát triển bền vững là đảm bảo cho con người có</question><a>Đời sống vật chất, tinh thần ngày càng cao, môi trường sống lành mạnh</a><b>Đời sống vật chát, tinh thần ngày càng đầy đủ</b><c>Sức khỏe và tuổi thọ ngày càng cao</c><d>Môi trường sống an toàn, mở rộng</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ý nào sau đây không phải là nguyên tắc của sự phát triển bền vững ở Việt Nam?</question><a>Con người là trung tâm của sự phát triển bền vững</a><b>Phát triển song hành với đảm bảo an ninh lương thực, năng lượng</b><c>Quá trình phát triển phải đảm bảo một cách công bằng nhu cầu của thế hệ hiện tại và các thế hệ tương lai</c><d>Giảm thiểu phát thải các chất khí vào môi trường thông qua việc giảm bớt sản xuất công nghiệp</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Hội nghị nào thể hiện sự nỗ lực chung của thế giới trong vấn đề bảo vệ môi trường ?</question><a>Hội nghị Thượng đỉnh Trái Đất</a><b>Hội nghị các nước ASEAN</b><c>Hội nghị Cộng đồng Pháp ngữ</c><d>Hội nghị Thượng đỉnh G20</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Những vấn đề môi trường của các nước phát triển chủ yếu gắn với những tác động môi trường do sự</question><a>Phát triển du lịch</a><b>Phát triển nông nghiệp</b><c>Phát triển công nghiệp</c><d>Phát triển ngoại thương</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Các trung tâm phát tán khí thải lớn nhất của thế giới là</question><a>Các nước EU, Nhật Bản, Hoa Kì</a><b>Trung Quốc, Ấn Độ, Hàn Quốc</b><c>Các nước ở Mĩ La tinh, châu Phi</c><d>Các nước ở châu Á, châu Phi, Mĩ La tinh</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ý nào dưới đây không phải là nguyên nhân chủ yếu làm cho môi trường ở các nước đang phát triển bị hủy hoại nghiêm trọng?</question><a>Nền kinh tế nông nghiệp là chủ đạo</a><b>Thiếu vốn, thiếu công nghệ, thiếu cán bộ khoa học kĩ thuật</b><c>Hậu quả chiến tranh và xung đột triền miên</c><d>Gánh nặng nợ nước ngoài, sức ép dân số, bùng nổ dân số, nạn đói</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Nguyên nhân làm cho môi trường ở các nước đang phát triển thêm phức tạp là:</question><a>Bùng nổ dân số trong nhiều năm</a><b>Chậm phát triển về kinh tế - xã hội</b><c>Chiến tranh và xung đột triền miên</c><d>Nhiều công ti xuyên quốc gia dã chuyển các cơ sở sản xuất gây ô nhiễm sang các nước, đang phát triển</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Nguồn xuất khẩu chủ yếu để thu ngoại tệ ở các nước Tây Á, nhiều nước châu Phi và Mĩ La Tinh là</question><a>Gỗ và các sản phẩm chế biến từ gỗ</a><b>Sản phẩm cây công nghiệp chế biến từ gỗ</b><c>Khoáng sản thô và đã qua chế biến</c><d>Các sản phẩm từ ngành chăn nuôi</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Điện báo ra đời năm nào?</question><a>1884</a><b>1885</b><c>1887</c><d>1876</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Vai trò của ngành thông tin liên lạc</question><a>Đảm nhận sự vận chuyển các tin tức nhanh chóng kịp thời</a><b>Góp phần giao lưu giữa các địa phương và các nước trên thế giới</b><c>Là thước đo của nền văn minh</c><d>A, B, C đúng</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Fax dùng để</question><a>Truyền tin nhắn và các số liệu trực tiếp</a><b>Truyền văn bản và hình ảnh, đồ họa đi xa</b><c>Truyền văn bản</c><d>Truyền hình ảnh, văn bản gần</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Radio và vô tuyến ra đời năm nào:</question><a>Năm 1885 và 1936</a><b>Năm 1875 và 1939</b><c>Năm 1895 và 1935</c><d>Năm 1895 và 1936</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Telex ra đời năm nào?</question><a>1958</a><b>1960</b><c>1948</c><d>1968</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Thị trường được hiểu là?</question><a>Nơi tiến hành trao đổi những sản phẩm hàng hóa</a><b>Nơi gặp gỡ giữa bên bán bên mua</b><c>Nơi diễn ra tất cả các hoạt động dịch vụ</c><d>Nơi có các chợ và siêu thị</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Các quốc gia nhập siêu là:</question><a>Hoa Kì,Ca- na-da, Nhật Bản,Ấn Độ,Pháp</a><b>Trung Quốc,Ca-na-da, Thái Lan, Ấn Độ, Pháp</b><c>Trung Quốc,Thái Lan, Đức</c><d>Hoa Kì, Ca-na-da, Thái Lan, Đức</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Các quốc gia xuất siêu là:</question><a>Hoa Kì, Ca- na-da, Nhật Bản, Ấn Độ, Pháp</a><b>Trung Quốc,Ca-na-da, Thái Lan, Ấn Độ, Pháp</b><c>Trung Quốc, Thái Lan, Đức</c><d>Hoa Kì, Ca-na-da, Thái Lan, Đức</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Biểu đồ thích hợp nhất thể hiện giá trị xuất khẩu của các quốc gia là:</question><a>Biểu đồ tròn</a><b>Biểu đồ cột</b><c>Biểu đồ đường</c><d>Biểu đồ miền</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Giá trị xuất khẩu tính trên đầu người cao nhất trong các quốc gia trên là:</question><a>Trung Quốc</a><b>Ca-na-da</b><c>Đức</c><d>Pháp</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Giá trị xuất khẩu tính trên đầu người thấp nhất trong các quốc gia trên là:</question><a>Trung quốc</a><b>Ca-na-da</b><c>Thái Lan</c><d>Ấn Độ</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Hoa Kì có cán cân xuất nhập khẩu là:</question><a>-770 tỉ USD</a><b>760 tỉ USD</b><c>770 tỉ USD</c><d>-760 tỉ USD</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Nội thương phát triển góp phần</question><a>Đẩy mạnh chuyên môn hóa sản xuất và phân công lao động theo vùng và lãnh thổ</a><b>Gán thị trường trong nước với thị trường quốc tế, đẩy mạnh quan hệ giao lưu kinh tế quốc tế</b><c>Làm tăng kim ngạch nhập khẩu</c><d>Làm tăng kim ngạch xuất khẩu</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ba trung tâm buôn bán lớn nhất của thế giới là</question><a>Trung Quốc, Hoa Kì, châu Âu</a><b>Hoa Kì, Tây Âu, Nhật Bản</b><c>Bắc Mĩ, châu Âu, châu Á</c><d>Nam Mĩ, Trung Quốc, Ấn Độ</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Thương mại là khâu nối giữa sản xuất với tiêu dùng thông qua:</question><a>Việc vận chuyển hàng hóa giữa bên bán và bên mua</a><b>Việc luân chuyển các loại hàng hóa, dịch vụ giữa người bán và người mua</b><c>Việc luân chuyển các loại hàng hóa dịch vụ giữa các vùng</c><d>Việc trao đổi các loại hàng hóa dịch vụ giữa các địa phương với nhau</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Giao thông đường thủy nói chung có ưu điểm là:</question><a>Cước phí vận tải rẻ , thích hợp với chở hàng nặng , cồng kềnh</a><b>Tiện lượi , thích nghi với mọi điều kiện địa hình</b><c>Vận chuyển được hàng nặng trên đường xa, với tốc độ nhanh, ổn định</c><d>Có hiệu quả với cự li vận chuyển ngắn và chung bình</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ba nước phát triển mạnh giao thông đường sông, hồ là:</question><a>Hoa Kì, LB Nga, Ca-na-da</a><b>Anh, Pháp, Đức</b><c>LB Nga, Trung Quốc, Việt Nam</c><d>Hoa Kì, Tây Ban Nha, Bồ Đào Nha</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ngành giao thông đường biển có khối lượng hàng hóa luân chuyển rất lớn là do:</question><a>Cự li dài</a><b>Khối lượng vận chuyển lớn</b><c>Tính an toàn cao</c><d>Tính cơ động cao</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Trên các tuyến đường biển quốc tế, sản phẩm được chuyên chở nhiều nhất là:</question><a>Sản phẩm công nghiệp nặng</a><b>Các loại nông sản</b><c>Dầu thô và sản phẩm của dầu mỏ</c><d>Các loại hàng tiêu dùng</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Khoảng 2/3 số hải cảng trên thế giới phân bố ở</question><a>Ven bờ Ấn Độ Dương</a><b>Ven bờ Địa Trung Hải</b><c>Hai bờ đối diện Đại Tây Dương</c><d>Hai bờ đối diện Thái Bình Dương</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Vì sao ngành hàng không có khối lượng vận chuyển hàng hóa nhỏ nhất?</question><a>Tốc độ chậm, thiếu an toàn</a><b>Cước phí vận tải rất đắt, trọng tải thấp</b><c>Không cơ động, chi phí đầu tư lớn</c><d>Chỉ vận chuyển được chất lỏng</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Gần 1/2 số sân bay quốc tế nằm ở:</question><a>Hoa Kì và Tây Âu</a><b>Nhật Bản, Anh và Pháp</b><c>Hoa Kì và các nước Đông Âu</c><d>Nhật Bản và các nước Đông Âu</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Vận chuyển được các hàng nặng trên những tuyến đường xa với tốc độ nhanh, ổn định và giá rẻ là ưu điểm của ngành giao thông vận tải</question><a>Đường ô tô</a><b>Đường sắt</b><c>Đường sông</c><d>Đường ống</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Sự phân bố mạng lưới đường sắt trên thế giới phản ánh khá rõ sự phân bố của ngành nào ở nước ta và châu lục?</question><a>Nông nghiệp</a><b>Công nghiệp</b><c>Dịch vụ</c><d>Du lịch</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Nhược điểm chính của ngành vận tải đường sắt là</question><a>Đòi hỏi đầu tư lớn để lắp đặt đường ray</a><b>Đầu tư lớn để xây dựng hệ thống nhà ga</b><c>Chỉ hoạt động được trên các tuyến đường cố định có đặt sẵn đường ray</c><d>Tốc độ vận chuyển nhanh, an toàn cao</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Dịch vụ tiêu dùng bao gồm:</question><a>Giao thông vận tải, thông tin liên lạc</a><b>Các dịch vụ hành chinh công</b><c>Tài chinh, bảo hiểm</c><d>Bán buôn, bán lẻ, du lịch, y tế, giáo dục, thể thao</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Biểu đồ thích hợp nhất thể hiện giá trị xuất khẩu hàng hóa và dịch vụ năm 2014 của một số quốc gia là:</question><a>Biểu đồ tròn</a><b>Biểu đồ cột</b><c>Biểu đồ đường</c><d>Biểu đồ miền</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Nhận xét nào sau đây là đúng?</question><a>Trung Quốc có giá trị xuất khẩu hàng hóa và dịch vụ gấp 3,5 lần của Hàn Quốc</a><b>Nhật Bản có giá trị xuất khẩu hàng hóa và dịch vụ lớn thứ 2 trong bốn nước</b><c>Ấn Độ có giá trị xuất khẩu hàng hóa và dịch vụ chỉ bằng 1/4 của Trung Quốc</c><d>Trung Quốc có giá trị xuất khẩu hàng hóa và dịch vụ không đáng kể</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Nhân tố nào dưới đây là nhân tố quyết định sự phát triển của du lịch Việt Nam?</question><a>Lực lượng lao động dồi dào</a><b>Nhu cầu du lịch lớn</b><c>Di sản văn hóa, lịch sử và tài nguyên thiên nhiên</c><d>Cơ sở hạ tầng du lịch</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Các trung tâm dịch vụ lớn nhất trên thế giới là:</question><a>Lôt an-giơ-let, Si-ca-gô, Oa-sinh-tơn, Pa-ri, Xao Pao-lô</a><b>Phran-phuốc, Bruc-xen, Duy-rich, Xin-ga-po</b><c>Niu i-ôc, Luân Đôn, Tô-ki-ô</c><d>Luân Đôn, Pa-ri, Oa-sinh-tơn, Phran-phuốc</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Quốc gia nào sau đây có tỉ trọng ngành dịch vụ chiếm trên 70% trong cơ cấu GDP?</question><a>Hoa Kì</a><b>Bra-xin</b><c>Trung Quốc</c><d>Thái Lan</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Các ngành dịch vụ chiếm tỉ trọng</question><a>Cao trong cơ cấu GDP của tất cả các nước trên thế giới</a><b>Cao nhất trong cơ cấu GDP của các nước phát triển</b><c>Thấp nhất trong cơ cấu GDP của các nước đang phát triển</c><d>Cao nhất trong cơ cấu GDP của các nước đang phát triển</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Nhân tố nào sau đây ảnh hưởng đến hình thức tổ chức mạng lưới ngành dịch vụ?</question><a>Truyền thống văn hóa, phong tục tập quán</a><b>Di tích lịch sử văn hóa</b><c>Quy mô, cơ cấu dân số</c><d>Mức sống và thu nhập của người dân</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Sự phân bố dân cư và mạng lưới dân cư ảnh hưởng đến</question><a>Cơ cấu ngành dịch vụ</a><b>Sức mua, nhu cầu dịch vụ</b><c>Hình thành các điểm du lịch</c><d>Mạng lưới ngành dịch vụ</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ngành khai thác than có vai trò quan trọng trong việc cung cấp nhiên liệu cho</question><a>Nhà máy chế biến thực phẩm</a><b>Công nghiệp sản xuất hàng tiêu dùng</b><c>Nhà máy nhiệt điện, nhà máy luyện kim</c><d>Nhà máy thủy điện, nhà máy điện hạt nhân</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Ở nước ta, ngành công nghiệp nào cần được ưu tiên đi trước một bước?</question><a>Điện lực</a><b>Sản xuất hàng tiêu dùng</b><c>Chế biến dầu khí</c><d>Chế biến nông-lâm-thủy sản</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ở nước ta, vùng than lớn nhất hiện đang khai thác là</question><a>Lạng Sơn</a><b>Hòa Bình</b><c>Quảng Ninh</c><d>Cà Mau</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Nước nào sau đây có sản lượng khai thác dầu mỏ lớn?</question><a>Hoa Kì</a><b>A-rập Xê-út</b><c>Việt Nam</c><d>Trung Quốc</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Ở nước ta hiện nay, dầu mỏ đang khai thác nhiều ở vùng nào?</question><a>Đồng bằng sông Hồng</a><b>Bắc trung Bộ</b><c>Đông Nam Bộ</c><d>Duyên hải Nam Trung Bộ</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Nước nào sau đây có sản lượng điện bình quân theo đầu người lớn?</question><a>Na-uy</a><b>Trung Quốc</b><c>Ấn Độ</c><d>Cô-oét</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Cho biểu đồ sau:</question><a>Sản lượng điện trên thế giới năm 2002 và năm 2015</a><b>Cơ cấu sử dụng năng lượng thế giới năm 2002 và năm 2015</b><c>Cơ cấu sản lượng điện bình quân đầu người thế giới năm 2002 và năm 2015</c><d>Cơ cấu sản lượng điện thế giới năm 2002 và năm 2015</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Cuộc cách mạng công nghiệp trên thế giới được đánh dấu bởi sự ra đời của</question><a>Ô tô</a><b>Máy dệt</b><c>Máy bay</c><d>Máy hơi nước</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Sự phát triển của công nghiệp thực phẩm sẽ có tác dụng thúc đẩy sự phát triển của ngành nào sau đây?</question><a>Luyện kim</a><b>Nông nghiệp</b><c>Xây dựng</c><d>Khai thác khoáng sản</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Nguyên liệu chủ yếu của công nghiệp thực phẩm là sản phẩm của ngành</question><a>Khai thác gỗ, khai thác khoáng sản</a><b>Khai thác gỗ, khai thác khoáng sản</b><c>Trồng trọt, chăn nuôi và thủy sản</c><d>Khai thác gỗ, chăn nuôi và thủy sản</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Ngày thế giới phòng chống HIV/ADIS là ngày nào?</question><a>1/12</a><b>2/12</b><c>3/12</c><d>4/12</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Ngày môi trường thế giới là ngày nào?</question><a>Ngày 1/17</a><b>Ngày 5 / 6</b><c>Ngày 1 /12</c><d>Ngày 9/12</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Bùng nổ dân số là :</question><a>Sự gia tăng dân số của một vùng trên phạm vi lãnh thổ</a><b>Sự gia tăng dân số trong mức độ cho phép</b><c>Sự gia tăng dân số trong một năm</c><d>Sự gia tăng dân số quá nhanh trong một thời gian ngắn</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Hiện nay giải quyết những vấn đề cấp thiết của nhân loại là trách nhiệm của:</question><a>Các nước giàu</a><b>Nhân loại tiến bộ</b><c>Liên hợp quốc</c><d>Tất cả mọi người</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Theo em điều nào sau đây là vấn đề cấp thiết của nhân loại hiện nay:</question><a>Phân biệt chủng tộc</a><b>Chiến tranh khủng bố</b><c>Tai nạn giao thông</c><d>Bùng nổ dân số</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ở nước ta Luật Bảo vệ môi trường mới nhất hiện nay đang được áp dụng ban hành năm nào?</question><a>Năm 2012</a><b>Năm 2011</b><c>Năm 2013</c><d>Năm 2014</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Khái niệm môi trường được hiểu là:</question><a>Môi trường bao gồm các yếu tố tự nhiên bao quanh con người, có ảnh hưởng đến đời sống của con người</a><b>Môi trường bao gồm các yếu tố tự nhiên và nhân tạo bao quanh con người</b><c>Môi trường bao gồm các yếu tố vật chất, tinh thần có ảnh hưởng đến đời sống, sản xuất, sự tồn tại, phát triển của con người và sinh vật</c><d>Môi trường bao gồm các yếu tố tự nhiên và nhân tạo bao quanh con người có ảnh hưởng đến đời sống, sản xuất, sự tồn tại, phát triển của con người và sinh vật</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>“Bảo vệ môi trường thực chất là khắc phục …………., làm cho các hoạt động của con người không phá vỡ các yếu tố cân bằng của tự nhiên”. Trong dấu “…” là?</question><a>quan hệ giữa con người và tự nhiên</a><b>quan hệ giữa tự nhiên với tự nhiên</b><c>mâu thuẫn giữa tự nhiên với tự nhiên</c><d>mâu thuẫn giữa tự nhiên với con người</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Ngày môi trường thế giới là ngày nào?</question><a>Ngày 6 tháng 5</a><b>Ngày 1 tháng 6</b><c>Ngày 1 tháng 5</c><d>Ngày 5 tháng 6</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Cần phải phê phán hành vi nào trong các hành vi sau đây?</question><a>Không vứt rác bừa bãi</a><b>Giữ vệ sinh nơi công cộng</b><c>Trồng cây xanh</c><d>Xả rác bừa bãi</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trong giờ thảo luận của lớp 10C, có một số bạn bè nêu câu hỏi. “Cần cù và sáng tạo trong lao động có phải là biểu hiện của lòng yêu nước hay không?” . Em đồng ý với ý kiến nào dưới đây?</question><a>Không, vì đây là biểu hiện của đức tinh chăm chỉ</a><b>Có, vì lao động cần cù và sáng tạo góp phần cho đất nước phát triển</b><c>Có, vì đây là biểu hiện của tinh thần dân tộc</c><d>Không, vì người lao động nào cũng cần phải cần cù sáng tạo</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Người xa quê hương, đất nước nhưng luôn nhớ về quê hương, hướng về Tổ quốc là người có</question><a>Tình cảm dân tộc</a><b>Tình cảm quê hương, đất nước</b><c>Lòng yêu nước</c><d>Tấm lòng tốt đẹp</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Lòng yêu của dân tộc Việt Nam không bao gồm nội dung nào dưới đây?</question><a>Tình cảm gắn bó với quê hương đất nước</a><b>Đề cao dân tộc mình hơn dân tộc khác</b><c>Lòng tự hào dân tộc chính đáng</c><d>Cần cù và sáng tạo trong lao động</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Em đồng ý với ý kiến nào dưới đây về lòng yêu nước?</question><a>Lòng yêu nước là điều lớn lao rất khó thực hiện</a><b>Lòng yêu nước bắt nguồn từ những điều bình dị, gần gũi nhất</b><c>Chỉ những người trong quân đội mới cần có lòng yêu nước</c><d>Học sinh phổ thông còn nhỏ nên không cần có lòng yêu nước</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>“Ngày nay, nước ta đã hoàn toàn được thống nhất, nhưng chúng ta vẫn phải luôn ….. để chống lại mọi âm mưu phá hoại của kẻ thù, bảo vệ Tổ quốc”. Trong dấu “…” là?</question><a>đoàn kết</a><b>sẵn sàng</b><c>chuẩn bị</c><d>cảnh giác</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>“Công dân nam giới đủ mười tám tuổi được gọi nhập ngũ, độ tuổi gọi nhập ngũ trong thời bình từ đủ mười tám tuổi đến hết …”. Trong dấu “…” là?</question><a>Hai mươi lăm tuổi</a><b>Hai mươi bốn tuổi</b><c>Hai mươi sáu tuổi</c><d>Hai mươi ba tuổi</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Biểu hiện nào sau đây nói lên trách nhiệm xây dựng Tổ quốc của thanh niên học sinh?</question><a>Trung thành với Tổ quốc, với chế độ xã hội chủ nghĩa</a><b>Sẵn sàng lên đường làm nghĩa vụ bảo vệ Tổ quốc</b><c>Tham gia đăng ký nghĩa vụ quân sự</c><d>Biết phê phán, đấu tranh với những hành vi đi ngược lại lợi ích của quốc gia, dân tộc</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trách nhiệm hàng đầu của thanh niên Việt Nam hiện nay đối với sự nghiệp bảo vệ Tổ quốc là:</question><a>Chỉ cần xác định mục đích và động cơ học tập đúng</a><b>Tham gia nhập ngũ khi địa phương gọi</b><c>Tham gia các hoạt động của địa phương như vệ sinh môi trường</c><d>Trung thành với Tổ quốc Việt Nam Xã hội chủ nghĩa</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Câu tục ngữ nào nói về cách sống hòa nhập?</question><a>Cá lớn nuốt cá bé</a><b>Cháy nhà ra mặt chuột</b><c>Đèn nhà ai nấy rạng</c><d>Hàng xóm tối lửa tắt đèn có nhau</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Tình yêu đích thực diễn biến theo ba giai đoạn nào?</question><a>Hôn nhân – Gia đình hạnh phúc – Tình yêu</a><b>Hôn nhân – Tình yêu – Gia đình hạnh phúc</b><c>Tình yêu – Gia đình hạnh phúc – Hôn nhân</c><d>Tình yêu – Hôn nhân – Gia đình hạnh phúc</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Những điều nào cần tránh trong tình yêu?</question><a>Tình yêu là tự do liên kết giữa một nam, một nữ</a><b>Chung thuỷ gắn bó trong tình yêu</b><c>Tình yêu đẹp bắt nguồn từ một tình bạn đẹp</c><d>Tình yêu là tự do, thoải mái yêu và quan hệ tình dục</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Để xây dựng một gia đình hạnh phúc các thành viên cần:</question><a>Chia sẻ, tôn trọng, yêu thương giúp đỡ lẫn nhau phát triển kinh tế gia đình</a><b>Có việc làm ổn định và thủy chung</b><c>Nỗ lực lao động phát triển kinh tế làm giàu cho gia đình</c><d>Được bình đẳng trong kinh tế gia đình</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Chức năng của gia đình là:</question><a>Duy trì nòi giống</a><b>Nuôi dưỡng giáo dục con cái</b><c>Kinh tế, tổ chức đời sống gia đình</c><d>A, B, C</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Biểu hiện của tình yêu chân chính:</question><a>Có tình cảm chân thật, sự quyến luyến, gắn bó giữa một nam và một nữ</a><b>Có sự quan tâm sâu sắc đến nhau không vụ lợi</b><c>Có sự chân thành, tin cậy và tôn trọng từ cả hai phía</c><d>A, B, C</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Gia đình được xây dựng dựa trên mối quan hệ nào?</question><a>Quan hệ hôn nhân và quan hệ xã hội</a><b>Quan hệ hôn nhân và quan hệ huyết thống</b><c>Quan hệ hôn nhân và quan hệ cận huyết</c><d>Quan hệ huyết thống và quan hệ xã hội</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Ngày nay, trong xã hội xuất hiện thuật ngữ LGBT là nói đến tình yêu của những đối tượng nào?</question><a>Đồng tính luyến ái nam và nữ</a><b>Song tính luyến ái</b><c>Người chuyển giới</c><d>Cả A, B, C</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Đối với tình yêu cá nhân, xã hội có trách nhiệm là?</question><a>Không có trách nhiệm vì tình yêu mang tính cá nhân</a><b>Hướng dẫn mọi người có quan niệm đúng đắn về tình yêu</b><c>Chi phối tình yêu cá nhân</c><d>Ngăn cản tình yêu cá nhân</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Độ tuổi đủ tuổi kết hôn của nam và nữ là?</question><a>Nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi</a><b>Nam từ đủ 18 tuổi, nữ từ đủ 18 tuổi</b><c>Nam từ đủ 20 tuổi, nữ từ đủ 16 tuổi</c><d>Nam từ đủ 18 tuổi, nữ từ đủ 20 tuổi</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Toàn thể những người cùng chung sống, có những điểm giống nhau, gắn bó thành một khói trong sinh hoạt được gọi là</question><a>Cộng đồng</a><b>Tập thể</b><c>Dân cư</c><d>Làng xóm</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Tập thể nào dưới đây không phải là cộng đồng:</question><a>Nhân dân trong khu dân cư</a><b>Người Việt Nam ở nước ngoài</b><c>Tổ học tập</c><d>Trường học</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Cộng đồng là hình thức thể hiện các mối liên hệ và quan hệ xã hội</question><a>Của con người</a><b>Của đất nước</b><c>Của cán bộ, công chức</c><d>Của tập thể người lao động</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Mỗi người là một thành viên, một tế bào</question><a>C. Của thời đại</a><b>. Của cộng đồng</b><c>B. Của Nhà nước</c><d>D. Của nền kinh tế đất nước</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Mỗi công dân cần có việc làm, hành vi nào dưới đây khi sống trong cộng đồng?</question><a>Sống không cần quan tâm đến cộng đồng</a><b>Sống có trách nhiệm với cộng đồng</b><c>Sống vô tư trong cộng đồng</c><d>Sống giữ mình trong cộng đồng</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Cá nhân có trách nhiệm thực hiện những nhiệm vụ mà cộng đồng giao phó, tuân thủ những quy đinh, những nguyên tắc</question><a>Của cuộc sống</a><b>Của cộng đồng</b><c>Của đất nước</c><d>Của thời đại</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Sống gần gũi với mọi người và có ý thức tham gia các hoạt động chung của cộng đồng là biểu hiện của</question><a>Sống có trách nhiệm</a><b>Sống hòa nhập</b><c>Sống hợp tác</c><d>Sống tích cực</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Biểu hiện nào dưới đây là sống hòa nhập?</question><a>Sống tự do trong xã hội</a><b>Sống gần gũ, chan hòa với mọi người</b><c>Sống theo sở thích cá nhân</c><d>Sống phù hợp với thời đại</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Nhân nghĩa thể hiện ở suy nghĩ, tình cảm và hành động cao đẹp của</question><a>Quan hệ giữa các tầng lớp nhân dân</a><b>Quan hệ giữa người với người</b><c>Quan hệ giữa các giai cấp khác nhau</c><d>Quan hệ giữa các địa phương</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Hành vi, việc làm nào dưới đây không phải là biểu hiện của nhân nghĩa?</question><a>Tương trợ, giúp đỡ lẫn nhau trong cuộc sống</a><b>Nhân ái, thương yêu con người</b><c>Giúp đỡ người khác để tạo tiếng tốt cho bản thân</c><d>Sẵn sang giúp đỡ người khác lúc hoạn nạn, khó khăn</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Hợp tác phải dựa trên yếu tố nào dưới đây:</question><a>Tự giác, tự lực, tự chủ</a><b>Tự nguyện, bình đẳng</b><c>Cần cù, sáng tạo</c><d>Nhiệt tình, chân thành</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Phong tục nào sau đây thể hiện lối sống nhân nghĩa của dân tộc ta:</question><a>Xông đất đầu năm</a><b>Đi lễ chùa đầu năm</b><c>Ăn trầu</c><d>Cúng giỗ ông bà</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Hành vi, việc làm nào dưới đây là biểu hiện của hợp tác trong học sinh:</question><a>Bàn bạc với nhau về việc gây chia rẽ trong lớp học</a><b>Cùng nhau thảo luận bài tập nhóm</b><c>Hai người hát chung một bài</c><d>Hai người mắng một người</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>'Sự dao động của con lắc' thuộc hình thức vận động cơ bản nào của thế giới vật chất?</question><a>Cơ học</a><b>Xã hội</b><c>Sinh học</c><d>Vật lý</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Câu nói nào sau đây nói về phương pháp luận biện chứng</question><a>Sống chết có mệnh</a><b>Phú quý tại thiên</b><c>Giàu sang do trời</c><d>Tre già măng mọc</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Việt Nam tiến thẳng lên con đường xây dựng Chủ nghĩa xã hội từ chế độ phong kiến là thuộc hình thức vận động nào?</question><a>Sinh học</a><b>Xã hội</b><c>Vật lí</c><d>Cơ học</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Đâu là lượng của những sự vật, hiện tượng sau</question><a>Lớp 10 C2 có 45 học sinh</a><b>Ớt có màu đỏ, hình trụ</b><c>Lan luôn là học sinh giỏi</c><d>Gừng cay muối mặn xin đừng quên nhau</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Khi đun sôi nước trên nhiệt độ cao, các phân tử nước bốc hơi là thuộc hình thức vận động cơ bản nào sau đây của thế giới vật chất?</question><a>Sinh học</a><b>Cơ học</b><c>Vật lí</c><d>Hóa học</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Vai trò của triết học là?</question><a>Thế giới quan</a><b>Quan sát thế giới</b><c>Nghiên cứu thế giới</c><d>Tìm hiểu thế giới</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Mâu thuẫn chỉ có thể giải quyết bằng con đường</question><a>Điều hòa</a><b>Đấu tranh</b><c>Ganh đua</c><d>Hợp tác</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Đối tượng nghiên cứu của triết học là?</question><a>Những vấn đề chủ yếu của thế giới</a><b>Những vấn đề cơ bản của thế giới</b><c>Những vấn đề riêng của thế giới</c><d>Những vấn đề chung nhất của thể giới</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Phương pháp luận biện chứng xem xét sự vật, hiện tượng trong</question><a>Trạng thái phát triển</a><b>Trạng thái cô lập</b><c>Sự ràng buộc lẫn nhau</c><d>Sự đứng im</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>He told me he had been offered a very well-paid _____ abroad</question><a>employment</a><b>service</b><c>position</c><d>work</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>There is _____ that I may have to go into hospital next week</question><a>an opportunity</a><b>bad luck</b><c>favourable</c><d>fate</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>After the show, the crowd _____ out of the theatre</question><a>poured</a><b>melted</b><c>drew</c><d>dismissed</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>When we came out of the cinema, it was ______ with rain</question><a>running</a><b>falling</b><c>dropping</c><d>pouring</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>She asked me to ______ my name and address in capital letters so that they could be read more easily</question><a>clear</a><b>detail</b><c>print</c><d>describe</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>The funeral will be _____, and only members of the dead man’s family will attend</question><a>peculiar</a><b>particular</b><c>private</c><d>personal</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>When he was at school, he won first ______ for good behaviour</question><a>reward</a><b>prize</b><c>price</c><d>praise</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Your grandfather is rather tired so do not ______ your visit</question><a>prolong</a><b>lengthen</b><c>delay</c><d>shorten</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Car insurance usually _____ the car when it is being repaired by a garage</question><a>defends</a><b>guards</b><c>protects</c><d>provides</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>He has left his book here on _______, so that you can read it</question><a>design</a><b>intention</b><c>meaning</c><d>purpose</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>He stroked his cat’s silky fur and the cat ______ contentedly</question><a>growled</a><b>snored</b><c>purred</c><d>hummed</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>You must ______ that book before you sit down table</question><a>give away</a><b>get rid of</b><c>put away</c><d>do away with</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>I was very ______by the nurse’s attitude, it really annoyed me</question><a>put over</a><b>put up</b><c>put out</c><d>put by</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>She is leaving her husband because she cannot ______ his bad temper any longer</question><a>put up</a><b>put away</b><c>put up</c><d>put up with</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>I shouldn’t consult that man in the market place; he isn’t a qualified doctor although he pretends to be, he’s a ______</question><a>quack</a><b>leech</b><c>parasite</c><d>tramp</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Police officers working on the murder have ______ hundreds of families</question><a>demanded</a><b>enquired</b><c>questioned</c><d>requested</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Voices were ______as the argument between the two motorists became more bad-tempered</question><a>swollen</a><b>raised</b><c>increased</c><d>repeated</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>I washed this dress and the colour _____</question><a>escaped</a><b>removed</b><c>flowed</c><d>ran</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>The Alps are one of the best-known mountains ________ in Europe</question><a>ranges</a><b>ridges</b><c>peaks</c><d>groups</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>The driver tried to avoid the old lady and his car ______ a lamp post</question><a>ran over</a><b>ran down</b><c>ran into</c><d>ran up</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Tropical diseases are comparatively _____ in Britain</question><a>scarce</a><b>rare</b><c>slight</c><d>scattered</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>The best student in each class will ______ a prize at the end of term</question><a>catch</a><b>receive</b><c>possess</c><d>prove</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>When I applied for my passport to be renewed, I had to send a ______ photograph</question><a>fresh</a><b>fashionable</b><c>recent</c><d>modern</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>The actor enjoys giving ______ of poems by his favourate poets</question><a>recitation</a><b>rehearsals</b><c>repetitions</c><d>pronouncements</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>As soon as Charles had _______ a little from his surprise, his one thought was to get away</question><a>absorbed</a><b>dissolved</b><c>recovered</c><d>discovered</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>A _____ is a story long enough to fill a complete book, in which the characters and events are usually imaginary</question><a>pleasure</a><b>novel</b><c>page</c><d>review</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>How does she often go to school? _________ foot</question><a>By</a><b>In</b><c>On</c><d>At</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>This test is _________ difficult that I can’t solve it</question><a>too</a><b>enough</b><c>so</c><d>very</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Marry_________ guitar at the moment</question><a>playing</a><b>is playing</b><c>plays</c><d>play</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Is there________ rice left?</question><a>some</a><b>the</b><c>any</c><d>a</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Orange and apple are very good_________ you</question><a>to</a><b>at</b><c>for</c><d>on</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>He________ fishing with his father and brother</question><a>often goes</a><b>goes often</b><c>often go</c><d>is often going</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>What does she usually do _________ her free time?</question><a>on</a><b>in</b><c>at</c><d>during</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>She likes ____________ volleyball with some of her best friends</question><a>playing</a><b>play</b><c>being playing</c><d>play the</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>My teacher_____________ late for school</question><a>is never</a><b>never is</b><c>never goes</c><d>goes never</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>My family………………… Hue next summer vacation</question><a>is going to visit</a><b>visits</b><c>are visiting</c><d>is visiting</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>I’m going ____________ my uncle this weekend</question><a>visit</a><b>to visit</b><c>visiting</c><d>to visiting</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>_____________ going fishing tomorrow?</question><a>Let’s</a><b>How</b><c>What about</c><d>Why don’t</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>We are going to stay ____________ our grandparents on this next summer</question><a>for</a><b>with</b><c>on</c><d>at</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>This year, she is going to stay_________ a hotel in Cat Ba beach</question><a>on</a><b>in</b><c>at</c><d>with</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>She is going to visit Halong bay __________ seven days</question><a>in</a><b>on</b><c>at</c><d>for</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>The sign says: “Keep_____________ the grass.”</question><a>off</a><b>away</b><c>out</c><d>in</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>The three Rs stands _________ reduce, reuse and recycle</question><a>at</a><b>in</b><c>for</c><d>on</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Would you mind____________ some vegetables for breakfast?</question><a>buy</a><b>to buy</b><c>bought</c><d>buying</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Would you like me___________ the phone for you?</question><a>answer</a><b>answering</b><c>to answer</c><d>answers</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Linda and Jackson come __________ London</question><a>for</a><b>to</b><c>from</c><d>in</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Hai is living in a beautiful house_____ his father, mother, and siblings</question><a>for</a><b>near</b><c>with</c><d>about</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>There is a cloth store in front_________ my school</question><a>from</a><b>to</b><c>with</c><d>of</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>My hometown is_______ the city</question><a>at</a><b>in</b><c>on</c><d>under</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Where is your mother? She______ in the kitchen now</question><a>cooks</a><b>are cooking</b><c>is cooking</c><d>cooking</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>______________ the homework at the moment?Yes, I am</question><a>Is you doing</a><b>Are you doing</b><c>Am I doing</c><d>Are you done</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Trong MS PowerPoint, tại một slide hiện hành, ta bấm phím Delete (trên bàn phím), kết quả sẽ như thế nào?</question><a>Slide đó bị xóa</a><b>Thêm một Slide</b><c>Sao chép một Slide mới</c><d>Slide đó bị đổi màu</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Trong windows 7, làm thế nào để bật bàn phím ảo để sử dụng trên màn hình?</question><a>Vào Start -> All programs -> Accessories -> Start on Screen Keyboard</a><b>Vào Start-> All programs -> Accessories -> Ease of Access Center -> Start on Screen Keyboard</b><c>Vào Start -> All programs -> Ease of Access Center -> Start on Screen KeyboardVào Start-> All programs -> Start on Screen Keyboard</c><d>Nhấp phải chuột lên phần mềm, chọn Uninstall</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Trong hệ điều hành Windows 7, thao tác nào không nên sử dụng để khởi động lại máy tính?</question><a>Nhấn nút Power trên hộp máy</a><b>Nhấn nút Reset trên hộp máy</b><c>Nhấn tổ hợp Ctrl + Alt + Del, chọn mục Restart</c><d>Nhấn nút Start\\Shutdown, sau đó chọn Restart</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Để gửi mail khi đã soạn xong ở những trang web bằng tiếng Anh, chọn nút lệnh nào?</question><a>Send</a><b>Compose</b><c>Check mail</c><d>Inbox</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Thiết bị nào sau đây không thuộc bộ nhớ ngoài của máy tính?</question><a>Monitor</a><b>Hard disk</b><c>Usb disk</c><d>Hoppy disk</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Trình duyệt nào là trình duyệt do người Việt xây dựng?</question><a>Google Chrom</a><b>Cốc cốc</b><c>Cafef</c><d>Firefox</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Trong Microsoft Word, thực hiện thao tác nào để định dạng khổ giấy in?</question><a>Page Layout\\Size</a><b>Page Layout\\Page setup\\Paper\\Papersize</b><c>Page Layout\\Paragraph\\Size</c><d>Cả A và B đúng</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Trong MS Excel, hàm IF có thể lồng vào nhau bao nhiêu lần?</question><a>6</a><b>7</b><c>8</c><d>9</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Tên miền nào hợp lệ?</question><a>truongnoivu,edu.vn</a><b>truongnoivu;edu;vn</b><c>truongnoivu.edu.vn</c><d>truongnoivu,edu;vn</d><reply>3</reply></questionParse>
+<questionParse>
+        <question>Công dân nữ trong độ tuổi thực hiện nghĩa vụ quân sự trong thời bình có được phục vụ tại ngũ?</question><a>Không</a><b>Được, khi quân đội có nhu cầu</b><c>Được trong một số trường hợp thật đặc biệt</c><d>Được khi họ tự nguyện và quân đội có nhu cầu</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Đối tượng đăng ký nghĩa vụ quân sự bao gồm</question><a>Công dân nam đủ 17 tuổi trở lên và công dân nữ quy định tại khoản 2 Điều 7 của Luật Nghĩa vụ quân sự đủ 17 tuổi trở lên</a><b>Công dân nam đủ 17 tuổi trở lên và công dân nữ quy định tại khoản 2 Điều 7 của Luật Nghĩa vụ quân sự đủ 18 tuổi trở lên</b><c>Chỉ công dân nam</c><d>Mọi công dân nam đủ 17 tuổi trở lên và mọi công dân nữ đủ 18 tuổi trở lên</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Những đối tượng nào được miễn đăng ký nghĩa vụ quân sự</question><a>Người khuyết tật, người mắc bệnh hiểm nghèo, bệnh tâm thần hoặc bệnh mãn tính theo quy định của pháp luật</a><b>Người khuyết tật, người mắc bệnh hiểm nghèo, bệnh tâm thần theo quy định của pháp luật</b><c>Người khuyết tật, bệnh tâm thần hoặc bệnh mãn tính theo quy định của pháp luật</c><d>Người tàn tật tật, người mắc bệnh hiểm nghèo, bệnh tâm thần hoặc bệnh mãn tính theo quy định của pháp luật</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là:</question><a>18 tháng</a><b>20 tháng</b><c>22 tháng</c><d>24 tháng</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Độ tuổi gọi công dân nhập ngũ trong thời bình là bao nhiêu</question><a>Từ 18 đến 25 tuổi</a><b>Từ 18 đến hết 25 tuổi</b><c>Từ đủ 18 tuổi đến hết 25 tuổi</c><d>Từ đủ 18 tuổi đến hết 25 tuổi, riêng đối với công dân được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ thì độ tuổi gọi nhập ngũ đến hết 27 tuổi</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trường hợp nào sau đây được tạm hoãn gọi nhập ngũ</question><a>Chưa đủ sức khỏe phục vụ tại ngũ theo kết luận của Hội đồng khám sức khỏe;</a><b>Người thuộc diện di dân, giãn dân trong03 năm đầu đến các xã đặc biệt khó khăn theo dự án phát triển kinh tế – xã hội của Nhà nước do Ủy ban nhân dân cấp tỉnh trở lên quyết định;</b><c>Đang học tại cơ sở giáo dục phổ thông; đang được đào tạo trình độ đại học hệ chính quy thuộc cơ sở giáo dục đại học, trình độ cao đẳng hệ chính quy thuộc cơ sở giáo dục nghề nghiệp trongthời gian một khóa đào tạo của một trình độ đào tạo</c><d>Tất cả trường hợp trên</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Trường hợp nào sau đây được miễn gọi nhập ngũ</question><a>Con của liệt sĩ, con của thương binh hạng một;</a><b>Một anh hoặc một em trai của liệt sĩ;</b><c>Một con của bệnh binh, người nhiễm chất độc da cam suy giảm khả năng lao động từ 61% đến 80%;</c><d>Cả a và b</d><reply>4</reply></questionParse>
+<questionParse>
+        <question>Công dân đang làm việc tại cơ quan, tổ chức trong thời gian thực hiện đăng ký nghĩa vụ quân sự, khám, kiểm tra sức khỏe nghĩa vụ quân sự thì được hưởng các chế độ gì?</question><a>Được trả nguyên lương, tiền tàu xe và các khoản phụ cấp hiện hưởng</a><b>Được trả nguyên lương, tiền tàu xe</b><c>Được trả nguyên lương</c><d>được trả tiền tàu xe và các khoản phụ cấp hiện hưởng</d><reply>1</reply></questionParse>
+<questionParse>
+        <question>Lệnh gọi khám sức khỏe phải được giao cho công dân trước thời điểm khám sức khỏe bao nhiêu ngày?</question><a>10 ngày</a><b>15 ngày</b><c>20 ngày</c><d>35 ngày</d><reply>2</reply></questionParse>
+<questionParse>
+        <question>Hành vi không đăng ký nghĩa vụ quân sự lần đầu đối với công dân nam đủ 17 tuổi trong năm thuộc diện phải đăng ký nghĩa vụ quân sự thì bị xử lý như thế nào?</question><a>Phạt cảnh cáo</a><b>Phạt tiền</b><c>Truy cứu trách nhiệm hình sự</c><reply>1</reply></questionParse>
+<questionParse>
+        <question>Hành vi không có mặt đúng thời gian hoặc địa điểm tập trung sơ tuyển ghi trong giấy gọi sơ tuyển thực hiện nghĩa vụ quân sự mà không có lý do chính đáng bị xử phạt tiền như thế nào?</question><a>Phạt tiền từ 200.000 đồng đến 400.000 đồng</a><b>Phạt tiền từ 400.000 đồng đến 600.000 đồng</b><c>Phạt tiền từ 500.000 đồng đến 1000.000 đồng</c><d>Phạt tiền từ 1000.000 đồng đến 2000.000 đồng</d><reply>3</reply></questionParse>
 </ListQuestion>
